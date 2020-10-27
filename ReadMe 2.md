@@ -17,3 +17,11 @@ CSS Code Refactoring:
 
 URLs:
 
+GitHub Pages URL: https://katiem22.github.io/CodeRefactor/
+
+GitHub Repo URL: https://github.com/katiem22/CodeRefactor
+
+Screenshot Below:
+
+<img width="1425" alt="Screen Shot 2020-10-27 at 2 00 53 PM" src="https://user-images.githubusercontent.com/71536564/97342655-df755a80-185c-11eb-809a-4f6884fa42da.png">
+
